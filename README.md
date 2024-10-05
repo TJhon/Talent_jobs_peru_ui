@@ -1,3 +1,9 @@
+# Demonstration and comparison with the original page
+
+[Video](https://youtu.be/J7MTBTKgMYY)
+
+The application still has features to implement – I will leave the project until I have time to continue with the implementations.
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
